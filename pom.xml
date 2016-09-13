@@ -69,7 +69,7 @@
 			    <configuration>
 			        <deploymentType>cloudhub</deploymentType>
 			        <muleVersion>3.7.3</muleVersion>
-			        <username>rogerkohlerRKT</username>
+			        <username>rogerkohlerRTK</username>
 			        <password>Dimple12*</password>
 				 <workerType>Micro</workerType>
 			        <redeploy>true</redeploy>
